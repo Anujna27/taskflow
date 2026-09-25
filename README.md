@@ -181,3 +181,17 @@ Implemented simulated authentication, dynamic CRUD operations, task filtering, s
 Live Demo: https://taskflow-eciyj1xib-anujna-ks-projects.vercel.app
 
 GitHub: https://github.com/Anujna27/taskflow
+
+## Screenshots
+
+### Dashboard
+
+![TaskFlow Dashboard]
+
+### CRUD Operations
+
+![TaskFlow CRUD]
+
+### Persistent State
+
+![TaskFlow Persistence]
